@@ -8,5 +8,6 @@ public class Pert1{
         System.out.println("Tahun : 2023/2024");
         System.out.println("Semester : Gasal");
         System.out.println("--------------------");
+
     }
 }
